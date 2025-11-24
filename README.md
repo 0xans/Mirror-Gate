@@ -1,6 +1,6 @@
 # Mirror Gate
 
-![Mirror Gate](mirror_gate.png)
+![Mirror Gate](mirror_gate.gif)
 
 ## Overview
 
